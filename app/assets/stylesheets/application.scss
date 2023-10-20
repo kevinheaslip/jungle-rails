@@ -111,3 +111,8 @@ form.button_to {
 .text-danger {
   color: #f38792 !important;
 }
+
+.signed-in {
+  display: flex;
+  flex-direction: column;  
+}
